@@ -1,0 +1,1 @@
+stm32f769i_disco\startup_stm32f769xx.o: startup_stm32f769xx.s
